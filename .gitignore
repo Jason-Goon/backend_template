@@ -1,0 +1,4 @@
+/target
+tests.sh 
+.env
+Cargo.lock
